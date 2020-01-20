@@ -34,6 +34,10 @@
 	transform: rotate(180deg); 
 
 	}
+a:hover {
+	background-color: rgb(171, 171, 214);
+
+}
 
 a {
 	text-decoration: none;
