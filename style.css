@@ -1,0 +1,38 @@
+
+
+.button   {
+	width: 400px;
+  	height: 50px;
+  	border-radius: 5px;
+  	background: #FFCA33;
+	font-family: 'Gayathri', sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+#valid {
+	transition: width 3s;
+}
+
+#valid:hover {
+	width: 500px;
+	height: 60px;
+	background-color: greenyellow;
+}
+
+#caniuse {
+
+}
+
+#caniuse:hover {
+
+	display: flex;
+	justify-content: start;
+	background-color: darksalmon;
+	}
+
+a {
+	text-decoration: none;
+}
