@@ -1,0 +1,44 @@
+
+		body {
+			font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+		}
+
+		.nutritionbox {
+			padding: 0 10px 10px 10px;
+			border: 1px solid black;
+			width: 350px;
+		}
+
+		.firstclass {
+			border-bottom: 20px solid black;
+		}
+
+		.firstclass h1 {
+			line-height: 15%;
+		}
+
+		.firstclass p {
+			line-height: 20%;
+		}
+
+		.secondclass {
+			display:  flex;
+			border-bottom: 1px black solid;
+		}
+
+		.ausrichten {
+			display: flex;
+			align-items: flex-end;
+		}
+
+		.spalte {
+			width: 20%;
+		}
+
+		.beschreibung {
+			width: 60%;
+		}
+
+		.dickelinie{
+			border-bottom: 6px black solid;
+		}
