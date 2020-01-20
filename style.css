@@ -23,7 +23,7 @@
 }
 
 #caniuse {
-
+ 	transition: rotate 4s;
 }
 
 #caniuse:hover {
@@ -31,6 +31,8 @@
 	display: flex;
 	justify-content: start;
 	background-color: darksalmon;
+	transform: rotate(180deg); 
+
 	}
 
 a {
