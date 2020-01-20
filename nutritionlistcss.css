@@ -1,0 +1,69 @@
+
+
+
+#paper {
+	border: 1pt solid black;
+	padding: 3pt;
+	font-family:"Helvetica Grassetto", Helvetica, sans-serif;
+	font-size: 8pt;
+	width: 240px;
+	height: 550px
+	
+}
+
+h1 {
+	margin-top:  1px;
+}
+
+b {
+	font-family:"Helvetica Black", Helvetica, sans-serif;
+}
+
+.right {
+	text-align: right;
+}
+
+#firstrow {
+	width: 99%;
+	border-bottom: 8pt solid black;
+	margin-top: 0;
+	padding-top: 1px;
+	padding-bottom: 3px: 
+}
+
+
+#secondrow {
+	border: 1px solid red;
+	width: 99%;
+	text-align: justify;
+}
+#secondrow th {
+	font-size: 6pt;
+}
+table {
+	table-layout: auto;
+	width: 100%;
+
+}
+
+thead {
+ text-align: center;
+ text-align-last: right;
+}
+
+td  {
+	border-bottom: 1px solid gray;
+}
+
+#fifthrow {
+	font-size: 6pt;
+}
+
+#sixthrow {
+	font-size: 6pt;
+}
+
+#seventhrow {
+	font-size: 6pt;
+}
+#
